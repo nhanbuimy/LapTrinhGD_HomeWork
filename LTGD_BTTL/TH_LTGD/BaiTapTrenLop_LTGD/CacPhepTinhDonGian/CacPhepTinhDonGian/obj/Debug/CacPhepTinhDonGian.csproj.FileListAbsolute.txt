@@ -1,0 +1,10 @@
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\bin\Debug\CacPhepTinhDonGian.exe.config
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\bin\Debug\CacPhepTinhDonGian.exe
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\bin\Debug\CacPhepTinhDonGian.pdb
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\obj\Debug\CacPhepTinhDonGian.Form1.resources
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\obj\Debug\CacPhepTinhDonGian.Properties.Resources.resources
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\obj\Debug\CacPhepTinhDonGian.csproj.GenerateResource.cache
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\obj\Debug\CacPhepTinhDonGian.csproj.CoreCompileInputs.cache
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\obj\Debug\CacPhepTinhDonGian.exe
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\obj\Debug\CacPhepTinhDonGian.pdb
+D:\BaiTapTrenLop_LTGD\CacPhepTinhDonGian\CacPhepTinhDonGian\obj\Debug\CacPhepTinhDonGian.csproj.AssemblyReference.cache

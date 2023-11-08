@@ -1,0 +1,9 @@
+D:\BTTLC3_Phanso\BTTLC3_Phanso\bin\Debug\BTTLC3_Phanso.exe.config
+D:\BTTLC3_Phanso\BTTLC3_Phanso\bin\Debug\BTTLC3_Phanso.exe
+D:\BTTLC3_Phanso\BTTLC3_Phanso\bin\Debug\BTTLC3_Phanso.pdb
+D:\BTTLC3_Phanso\BTTLC3_Phanso\obj\Debug\BTTLC3_Phanso.Form1.resources
+D:\BTTLC3_Phanso\BTTLC3_Phanso\obj\Debug\BTTLC3_Phanso.Properties.Resources.resources
+D:\BTTLC3_Phanso\BTTLC3_Phanso\obj\Debug\BTTLC3_Phanso.csproj.GenerateResource.cache
+D:\BTTLC3_Phanso\BTTLC3_Phanso\obj\Debug\BTTLC3_Phanso.csproj.CoreCompileInputs.cache
+D:\BTTLC3_Phanso\BTTLC3_Phanso\obj\Debug\BTTLC3_Phanso.exe
+D:\BTTLC3_Phanso\BTTLC3_Phanso\obj\Debug\BTTLC3_Phanso.pdb

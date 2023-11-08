@@ -1,0 +1,10 @@
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\bin\Debug\BTTLC4_Combolistbox.exe.config
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\bin\Debug\BTTLC4_Combolistbox.exe
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\bin\Debug\BTTLC4_Combolistbox.pdb
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\obj\Debug\BTTLC4_Combolistbox.Form1.resources
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\obj\Debug\BTTLC4_Combolistbox.Properties.Resources.resources
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\obj\Debug\BTTLC4_Combolistbox.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\obj\Debug\BTTLC4_Combolistbox.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\obj\Debug\BTTLC4_Combolistbox.exe
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\obj\Debug\BTTLC4_Combolistbox.pdb
+D:\TH_LTGD\BTTLC4_Combolistbox\BTTLC4_Combolistbox\obj\Debug\BTTLC4_Combolistbox.csproj.AssemblyReference.cache

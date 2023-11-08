@@ -1,0 +1,10 @@
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\bin\Debug\BTTLC4_Editor.exe.config
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\bin\Debug\BTTLC4_Editor.exe
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\bin\Debug\BTTLC4_Editor.pdb
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\obj\Debug\BTTLC4_Editor.csproj.AssemblyReference.cache
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\obj\Debug\BTTLC4_Editor.Form1.resources
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\obj\Debug\BTTLC4_Editor.Properties.Resources.resources
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\obj\Debug\BTTLC4_Editor.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\obj\Debug\BTTLC4_Editor.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\obj\Debug\BTTLC4_Editor.exe
+D:\TH_LTGD\BTTLC4_Editor\BTTLC4_Editor\obj\Debug\BTTLC4_Editor.pdb

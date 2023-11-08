@@ -1,0 +1,10 @@
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\bin\Debug\BTTLC6_ArrayRandom.exe.config
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\bin\Debug\BTTLC6_ArrayRandom.exe
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\bin\Debug\BTTLC6_ArrayRandom.pdb
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\obj\Debug\BTTLC6_ArrayRandom.Form1.resources
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\obj\Debug\BTTLC6_ArrayRandom.Properties.Resources.resources
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\obj\Debug\BTTLC6_ArrayRandom.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\obj\Debug\BTTLC6_ArrayRandom.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\obj\Debug\BTTLC6_ArrayRandom.exe
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\obj\Debug\BTTLC6_ArrayRandom.pdb
+D:\TH_LTGD\BTTLC6_ArrayRandom\BTTLC6_ArrayRandom\obj\Debug\BTTLC6_ArrayRandom.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\bin\Debug\BTTLC3_HieuchinhlopPhanSo.exe.config
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\bin\Debug\BTTLC3_HieuchinhlopPhanSo.exe
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\bin\Debug\BTTLC3_HieuchinhlopPhanSo.pdb
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\obj\Debug\BTTLC3_HieuchinhlopPhanSo.Form1.resources
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\obj\Debug\BTTLC3_HieuchinhlopPhanSo.Properties.Resources.resources
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\obj\Debug\BTTLC3_HieuchinhlopPhanSo.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\obj\Debug\BTTLC3_HieuchinhlopPhanSo.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\obj\Debug\BTTLC3_HieuchinhlopPhanSo.exe
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\obj\Debug\BTTLC3_HieuchinhlopPhanSo.pdb
+D:\TH_LTGD\BTTLC3_HieuchinhlopPhanSo\BTTLC3_HieuchinhlopPhanSo\obj\Debug\BTTLC3_HieuchinhlopPhanSo.csproj.AssemblyReference.cache

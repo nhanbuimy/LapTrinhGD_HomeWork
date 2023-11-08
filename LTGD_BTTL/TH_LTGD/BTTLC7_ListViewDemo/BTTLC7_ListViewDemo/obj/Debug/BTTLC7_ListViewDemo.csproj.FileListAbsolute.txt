@@ -1,0 +1,10 @@
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\bin\Debug\BTTLC7_ListViewDemo.exe.config
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\bin\Debug\BTTLC7_ListViewDemo.exe
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\bin\Debug\BTTLC7_ListViewDemo.pdb
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\obj\Debug\BTTLC7_ListViewDemo.csproj.AssemblyReference.cache
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\obj\Debug\BTTLC7_ListViewDemo.Form1.resources
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\obj\Debug\BTTLC7_ListViewDemo.Properties.Resources.resources
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\obj\Debug\BTTLC7_ListViewDemo.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\obj\Debug\BTTLC7_ListViewDemo.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\obj\Debug\BTTLC7_ListViewDemo.exe
+D:\TH_LTGD\BTTLC7_ListViewDemo\BTTLC7_ListViewDemo\obj\Debug\BTTLC7_ListViewDemo.pdb

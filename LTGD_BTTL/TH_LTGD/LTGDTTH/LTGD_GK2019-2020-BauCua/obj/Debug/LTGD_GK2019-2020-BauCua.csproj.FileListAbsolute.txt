@@ -1,0 +1,23 @@
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\bin\Debug\LTGD_GK2019-2020-Crown&Anchor.exe.config
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\bin\Debug\LTGD_GK2019-2020-Crown&Anchor.exe
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\bin\Debug\LTGD_GK2019-2020-Crown&Anchor.pdb
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-BauCua.csproj.AssemblyReference.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-BauCua.csproj.SuggestedBindingRedirects.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019_2020_Crown_Anchor.Form1_Intro.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019_2020_Crown_Anchor.Form1_Main.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019_2020_Crown_Anchor.Properties.Resources.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-BauCua.csproj.GenerateResource.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-BauCua.csproj.CoreCompileInputs.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.exe
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.pdb
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\bin\Debug\LTGD_GK2019-2020-Crown&Anchor.exe.config
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\bin\Debug\LTGD_GK2019-2020-Crown&Anchor.exe
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\bin\Debug\LTGD_GK2019-2020-Crown&Anchor.pdb
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-BauCua.csproj.AssemblyReference.cache
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019_2020_Crown_Anchor.Form1_Intro.resources
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019_2020_Crown_Anchor.Form1_Main.resources
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019_2020_Crown_Anchor.Properties.Resources.resources
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-BauCua.csproj.GenerateResource.cache
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-BauCua.csproj.CoreCompileInputs.cache
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.exe
+D:\LTGDTTH\LTGD_GK2019-2020-BauCua\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.pdb

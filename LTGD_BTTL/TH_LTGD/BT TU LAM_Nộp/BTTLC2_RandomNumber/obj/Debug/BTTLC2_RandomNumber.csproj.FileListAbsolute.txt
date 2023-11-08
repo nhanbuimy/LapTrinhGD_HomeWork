@@ -1,0 +1,9 @@
+D:\TH_LTGD\BTTLC2_RandomNumber\BTTLC2_RandomNumber\bin\Debug\BTTLC2_RandomNumber.exe.config
+D:\TH_LTGD\BTTLC2_RandomNumber\BTTLC2_RandomNumber\bin\Debug\BTTLC2_RandomNumber.exe
+D:\TH_LTGD\BTTLC2_RandomNumber\BTTLC2_RandomNumber\bin\Debug\BTTLC2_RandomNumber.pdb
+D:\TH_LTGD\BTTLC2_RandomNumber\BTTLC2_RandomNumber\obj\Debug\BTTLC2_RandomNumber.Form1.resources
+D:\TH_LTGD\BTTLC2_RandomNumber\BTTLC2_RandomNumber\obj\Debug\BTTLC2_RandomNumber.Properties.Resources.resources
+D:\TH_LTGD\BTTLC2_RandomNumber\BTTLC2_RandomNumber\obj\Debug\BTTLC2_RandomNumber.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC2_RandomNumber\BTTLC2_RandomNumber\obj\Debug\BTTLC2_RandomNumber.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC2_RandomNumber\BTTLC2_RandomNumber\obj\Debug\BTTLC2_RandomNumber.exe
+D:\TH_LTGD\BTTLC2_RandomNumber\BTTLC2_RandomNumber\obj\Debug\BTTLC2_RandomNumber.pdb

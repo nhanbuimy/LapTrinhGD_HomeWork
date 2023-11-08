@@ -1,0 +1,9 @@
+D:\BaiTapTuLamC2\BaiTapTuLamC2\bin\Debug\BaiTapTuLamC2.exe.config
+D:\BaiTapTuLamC2\BaiTapTuLamC2\bin\Debug\BaiTapTuLamC2.exe
+D:\BaiTapTuLamC2\BaiTapTuLamC2\bin\Debug\BaiTapTuLamC2.pdb
+D:\BaiTapTuLamC2\BaiTapTuLamC2\obj\Debug\BaiTapTuLamC2.Properties.Resources.resources
+D:\BaiTapTuLamC2\BaiTapTuLamC2\obj\Debug\BaiTapTuLamC2.csproj.GenerateResource.cache
+D:\BaiTapTuLamC2\BaiTapTuLamC2\obj\Debug\BaiTapTuLamC2.csproj.CoreCompileInputs.cache
+D:\BaiTapTuLamC2\BaiTapTuLamC2\obj\Debug\BaiTapTuLamC2.exe
+D:\BaiTapTuLamC2\BaiTapTuLamC2\obj\Debug\BaiTapTuLamC2.pdb
+D:\BaiTapTuLamC2\BaiTapTuLamC2\obj\Debug\BaiTapTuLamC2.ChuyenMaAscii.resources

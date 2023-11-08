@@ -1,0 +1,9 @@
+D:\TH_LTGD\BTTLC5_QuaBong\BTTLC5_QuaBong\bin\Debug\BTTLC5_QuaBong.exe.config
+D:\TH_LTGD\BTTLC5_QuaBong\BTTLC5_QuaBong\bin\Debug\BTTLC5_QuaBong.exe
+D:\TH_LTGD\BTTLC5_QuaBong\BTTLC5_QuaBong\bin\Debug\BTTLC5_QuaBong.pdb
+D:\TH_LTGD\BTTLC5_QuaBong\BTTLC5_QuaBong\obj\Debug\BTTLC5_QuaBong.Form1.resources
+D:\TH_LTGD\BTTLC5_QuaBong\BTTLC5_QuaBong\obj\Debug\BTTLC5_QuaBong.Properties.Resources.resources
+D:\TH_LTGD\BTTLC5_QuaBong\BTTLC5_QuaBong\obj\Debug\BTTLC5_QuaBong.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC5_QuaBong\BTTLC5_QuaBong\obj\Debug\BTTLC5_QuaBong.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC5_QuaBong\BTTLC5_QuaBong\obj\Debug\BTTLC5_QuaBong.exe
+D:\TH_LTGD\BTTLC5_QuaBong\BTTLC5_QuaBong\obj\Debug\BTTLC5_QuaBong.pdb

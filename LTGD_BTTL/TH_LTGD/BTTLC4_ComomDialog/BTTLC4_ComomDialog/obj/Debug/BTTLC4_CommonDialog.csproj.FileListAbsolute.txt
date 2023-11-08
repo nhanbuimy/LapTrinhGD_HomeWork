@@ -1,0 +1,9 @@
+D:\TH_LTGD\BTTLC4_ComomDialog\BTTLC4_ComomDialog\bin\Debug\BTTLC4_ComomDialog.exe.config
+D:\TH_LTGD\BTTLC4_ComomDialog\BTTLC4_ComomDialog\bin\Debug\BTTLC4_ComomDialog.exe
+D:\TH_LTGD\BTTLC4_ComomDialog\BTTLC4_ComomDialog\bin\Debug\BTTLC4_ComomDialog.pdb
+D:\TH_LTGD\BTTLC4_ComomDialog\BTTLC4_ComomDialog\obj\Debug\BTTLC4_ComomDialog.Form1.resources
+D:\TH_LTGD\BTTLC4_ComomDialog\BTTLC4_ComomDialog\obj\Debug\BTTLC4_ComomDialog.Properties.Resources.resources
+D:\TH_LTGD\BTTLC4_ComomDialog\BTTLC4_ComomDialog\obj\Debug\BTTLC4_CommonDialog.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC4_ComomDialog\BTTLC4_ComomDialog\obj\Debug\BTTLC4_CommonDialog.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC4_ComomDialog\BTTLC4_ComomDialog\obj\Debug\BTTLC4_ComomDialog.exe
+D:\TH_LTGD\BTTLC4_ComomDialog\BTTLC4_ComomDialog\obj\Debug\BTTLC4_ComomDialog.pdb

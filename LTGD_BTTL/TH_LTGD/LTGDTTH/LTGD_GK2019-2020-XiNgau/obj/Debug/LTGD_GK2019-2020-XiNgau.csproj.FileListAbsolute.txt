@@ -1,0 +1,10 @@
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\bin\Debug\LTGD_GK2019-2020.exe.config
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\bin\Debug\LTGD_GK2019-2020.exe
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\bin\Debug\LTGD_GK2019-2020.pdb
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\obj\Debug\LTGD_GK2019-2020-XiNgau.csproj.AssemblyReference.cache
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\obj\Debug\LTGD_GK2019_2020.Form1.resources
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\obj\Debug\LTGD_GK2019_2020.Properties.Resources.resources
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\obj\Debug\LTGD_GK2019-2020-XiNgau.csproj.GenerateResource.cache
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\obj\Debug\LTGD_GK2019-2020-XiNgau.csproj.CoreCompileInputs.cache
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\obj\Debug\LTGD_GK2019-2020.exe
+D:\LTGDTTH\LTGD_GK2019-2020-XiNgau\obj\Debug\LTGD_GK2019-2020.pdb

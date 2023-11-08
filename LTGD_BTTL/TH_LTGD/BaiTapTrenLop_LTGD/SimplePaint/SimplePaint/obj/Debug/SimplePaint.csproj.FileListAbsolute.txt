@@ -1,0 +1,13 @@
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe.config
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\bin\Debug\SimplePaint.pdb
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.AssemblyReference.cache
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Draw_By_Mouse.resources
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Draw_Image.resources
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Draw_Text.resources
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Form1.resources
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.exe
+D:\BaiTapTrenLop_LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.pdb

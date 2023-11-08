@@ -1,0 +1,10 @@
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\bin\Debug\BTTLC4_MyPhotoMDI.exe.config
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\bin\Debug\BTTLC4_MyPhotoMDI.exe
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\bin\Debug\BTTLC4_MyPhotoMDI.pdb
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\obj\Debug\BTTLC4_MyPhotoMDI.FormChild.resources
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\obj\Debug\BTTLC4_MyPhotoMDI.Properties.Resources.resources
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\obj\Debug\BTTLC4_MyPhotoMDI.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\obj\Debug\BTTLC4_MyPhotoMDI.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\obj\Debug\BTTLC4_MyPhotoMDI.exe
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\obj\Debug\BTTLC4_MyPhotoMDI.pdb
+D:\TH_LTGD\BTTLC4_MyPhotoMDI\BTTLC4_MyPhotoMDI\obj\Debug\BTTLC4_MyPhotoMDI.FormMain.resources

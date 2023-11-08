@@ -1,0 +1,10 @@
+D:\MoveObject\MoveObject\bin\Debug\MoveObject.exe.config
+D:\MoveObject\MoveObject\bin\Debug\MoveObject.exe
+D:\MoveObject\MoveObject\bin\Debug\MoveObject.pdb
+D:\MoveObject\MoveObject\obj\Debug\MoveObject.Form1.resources
+D:\MoveObject\MoveObject\obj\Debug\MoveObject.Properties.Resources.resources
+D:\MoveObject\MoveObject\obj\Debug\MoveObject.csproj.GenerateResource.cache
+D:\MoveObject\MoveObject\obj\Debug\MoveObject.csproj.CoreCompileInputs.cache
+D:\MoveObject\MoveObject\obj\Debug\MoveObject.exe
+D:\MoveObject\MoveObject\obj\Debug\MoveObject.pdb
+D:\MoveObject\MoveObject\obj\Debug\MoveObject.csproj.AssemblyReference.cache

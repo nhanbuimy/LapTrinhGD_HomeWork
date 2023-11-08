@@ -1,0 +1,12 @@
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\bin\Debug\LTGD_GK2019-2020-Crown&Anchor.exe.config
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\bin\Debug\LTGD_GK2019-2020-Crown&Anchor.exe
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\bin\Debug\LTGD_GK2019-2020-Crown&Anchor.pdb
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.csproj.AssemblyReference.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.csproj.SuggestedBindingRedirects.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\obj\Debug\LTGD_GK2019_2020_Crown_Anchor.Form1_Intro.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\obj\Debug\LTGD_GK2019_2020_Crown_Anchor.Properties.Resources.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.csproj.GenerateResource.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.csproj.CoreCompileInputs.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.exe
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\obj\Debug\LTGD_GK2019-2020-Crown&Anchor.pdb
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2019-2020-Crown&Anchor\obj\Debug\LTGD_GK2019_2020_Crown_Anchor.Form1_Main.resources

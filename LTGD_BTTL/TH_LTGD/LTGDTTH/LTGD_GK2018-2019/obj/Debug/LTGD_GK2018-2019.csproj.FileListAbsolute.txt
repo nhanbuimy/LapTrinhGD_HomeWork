@@ -1,0 +1,14 @@
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\bin\Debug\LTGD_GK2018-2019.exe.config
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\bin\Debug\LTGD_GK2018-2019.exe
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\bin\Debug\LTGD_GK2018-2019.pdb
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018-2019.csproj.AssemblyReference.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018-2019.csproj.SuggestedBindingRedirects.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018_2019.Form1_Intro.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018_2019.Properties.Resources.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018-2019.csproj.GenerateResource.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018-2019.csproj.CoreCompileInputs.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018-2019.exe
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018-2019.pdb
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018_2019.Form1_Main.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018_2019.Form1_Image.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2018-2019\obj\Debug\LTGD_GK2018_2019.Form1_List.resources

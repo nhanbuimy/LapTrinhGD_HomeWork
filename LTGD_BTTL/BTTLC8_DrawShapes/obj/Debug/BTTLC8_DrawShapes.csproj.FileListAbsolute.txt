@@ -1,0 +1,10 @@
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\bin\Debug\BTTLC8_DrawShapes.exe.config
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\bin\Debug\BTTLC8_DrawShapes.exe
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\bin\Debug\BTTLC8_DrawShapes.pdb
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\obj\Debug\BTTLC8_DrawShapes.Form1.resources
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\obj\Debug\BTTLC8_DrawShapes.Properties.Resources.resources
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\obj\Debug\BTTLC8_DrawShapes.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\obj\Debug\BTTLC8_DrawShapes.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\obj\Debug\BTTLC8_DrawShapes.exe
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\obj\Debug\BTTLC8_DrawShapes.pdb
+D:\TH_LTGD\BTTLC8_DrawShapes\BTTLC8_DrawShapes\obj\Debug\BTTLC8_DrawShapes.FormOption.resources

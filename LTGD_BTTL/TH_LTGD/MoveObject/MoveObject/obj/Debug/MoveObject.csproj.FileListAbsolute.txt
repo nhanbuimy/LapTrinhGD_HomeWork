@@ -1,0 +1,9 @@
+D:\TH_LTGD\MoveObject\MoveObject\bin\Debug\MoveObject.exe.config
+D:\TH_LTGD\MoveObject\MoveObject\bin\Debug\MoveObject.exe
+D:\TH_LTGD\MoveObject\MoveObject\bin\Debug\MoveObject.pdb
+D:\TH_LTGD\MoveObject\MoveObject\obj\Debug\MoveObject.Form1.resources
+D:\TH_LTGD\MoveObject\MoveObject\obj\Debug\MoveObject.Properties.Resources.resources
+D:\TH_LTGD\MoveObject\MoveObject\obj\Debug\MoveObject.csproj.GenerateResource.cache
+D:\TH_LTGD\MoveObject\MoveObject\obj\Debug\MoveObject.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\MoveObject\MoveObject\obj\Debug\MoveObject.exe
+D:\TH_LTGD\MoveObject\MoveObject\obj\Debug\MoveObject.pdb

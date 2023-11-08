@@ -1,0 +1,10 @@
+D:\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe.config
+D:\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe
+D:\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.pdb
+D:\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.AssemblyReference.cache
+D:\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.Form1.resources
+D:\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.Properties.Resources.resources
+D:\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.GenerateResource.cache
+D:\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+D:\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.exe
+D:\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.pdb

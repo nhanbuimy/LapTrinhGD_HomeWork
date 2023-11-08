@@ -1,0 +1,10 @@
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\bin\Debug\BTTLC2_Phuongtrinhbac2.exe.config
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\bin\Debug\BTTLC2_Phuongtrinhbac2.exe
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\bin\Debug\BTTLC2_Phuongtrinhbac2.pdb
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\obj\Debug\BTTLC2_Phuongtrinhbac2.Form1.resources
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\obj\Debug\BTTLC2_Phuongtrinhbac2.Properties.Resources.resources
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\obj\Debug\BTTLC2_Phuongtrinhbac2.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\obj\Debug\BTTLC2_Phuongtrinhbac2.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\obj\Debug\BTTLC2_Phuongtrinhbac2.exe
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\obj\Debug\BTTLC2_Phuongtrinhbac2.pdb
+D:\TH_LTGD\BTTLC2_Phuongtrinhbac2\BTTLC2_Phuongtrinhbac2\obj\Debug\BTTLC2_Phuongtrinhbac2.csproj.AssemblyReference.cache

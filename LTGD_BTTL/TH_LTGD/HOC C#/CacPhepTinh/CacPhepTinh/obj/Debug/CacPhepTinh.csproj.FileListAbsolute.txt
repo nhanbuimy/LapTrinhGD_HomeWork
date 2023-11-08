@@ -1,0 +1,9 @@
+D:\TH_LTGD\HOC C#\CacPhepTinh\CacPhepTinh\bin\Debug\CacPhepTinh.exe.config
+D:\TH_LTGD\HOC C#\CacPhepTinh\CacPhepTinh\bin\Debug\CacPhepTinh.exe
+D:\TH_LTGD\HOC C#\CacPhepTinh\CacPhepTinh\bin\Debug\CacPhepTinh.pdb
+D:\TH_LTGD\HOC C#\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.Form1.resources
+D:\TH_LTGD\HOC C#\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.Properties.Resources.resources
+D:\TH_LTGD\HOC C#\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.csproj.GenerateResource.cache
+D:\TH_LTGD\HOC C#\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\HOC C#\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.exe
+D:\TH_LTGD\HOC C#\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.pdb

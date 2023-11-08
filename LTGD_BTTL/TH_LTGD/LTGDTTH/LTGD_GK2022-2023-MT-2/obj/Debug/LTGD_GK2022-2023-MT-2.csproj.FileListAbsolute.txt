@@ -1,0 +1,38 @@
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\bin\Debug\LTGD_GK2022-2023-MT-2.exe.config
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\bin\Debug\LTGD_GK2022-2023-MT-2.exe
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\bin\Debug\LTGD_GK2022-2023-MT-2.pdb
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.AssemblyReference.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.SuggestedBindingRedirects.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.Properties.Resources.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.GenerateResource.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.CoreCompileInputs.cache
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.exe
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.pdb
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.FrmMain.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.FrmQuaySo.resources
+D:\MWorkspace\ws-vs\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.FrmVe.resources
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\bin\Debug\LTGD_GK2022-2023-MT-2.exe.config
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\bin\Debug\LTGD_GK2022-2023-MT-2.exe
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\bin\Debug\LTGD_GK2022-2023-MT-2.pdb
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.AssemblyReference.cache
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.SuggestedBindingRedirects.cache
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.FrmMain.resources
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.FrmQuaySo.resources
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.FrmVe.resources
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.Properties.Resources.resources
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.GenerateResource.cache
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.CoreCompileInputs.cache
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.exe
+D:\MWorkspace\ws-vs\C#\Interface Programming\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.pdb
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\bin\Debug\LTGD_GK2022-2023-MT-2.exe.config
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\bin\Debug\LTGD_GK2022-2023-MT-2.exe
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\bin\Debug\LTGD_GK2022-2023-MT-2.pdb
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.AssemblyReference.cache
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.FrmMain.resources
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.FrmQuaySo.resources
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.FrmVe.resources
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022_2023_MT_2.Properties.Resources.resources
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.GenerateResource.cache
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.csproj.CoreCompileInputs.cache
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.exe
+D:\LTGDTTH\LTGD_GK2022-2023-MT-2\obj\Debug\LTGD_GK2022-2023-MT-2.pdb

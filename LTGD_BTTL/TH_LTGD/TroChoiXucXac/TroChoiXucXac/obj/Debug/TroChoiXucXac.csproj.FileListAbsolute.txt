@@ -1,0 +1,9 @@
+D:\TH_LTGD\TroChoiXucXac\TroChoiXucXac\bin\Debug\TroChoiXucXac.exe.config
+D:\TH_LTGD\TroChoiXucXac\TroChoiXucXac\bin\Debug\TroChoiXucXac.exe
+D:\TH_LTGD\TroChoiXucXac\TroChoiXucXac\bin\Debug\TroChoiXucXac.pdb
+D:\TH_LTGD\TroChoiXucXac\TroChoiXucXac\obj\Debug\TroChoiXucXac.Form1.resources
+D:\TH_LTGD\TroChoiXucXac\TroChoiXucXac\obj\Debug\TroChoiXucXac.Properties.Resources.resources
+D:\TH_LTGD\TroChoiXucXac\TroChoiXucXac\obj\Debug\TroChoiXucXac.csproj.GenerateResource.cache
+D:\TH_LTGD\TroChoiXucXac\TroChoiXucXac\obj\Debug\TroChoiXucXac.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\TroChoiXucXac\TroChoiXucXac\obj\Debug\TroChoiXucXac.exe
+D:\TH_LTGD\TroChoiXucXac\TroChoiXucXac\obj\Debug\TroChoiXucXac.pdb

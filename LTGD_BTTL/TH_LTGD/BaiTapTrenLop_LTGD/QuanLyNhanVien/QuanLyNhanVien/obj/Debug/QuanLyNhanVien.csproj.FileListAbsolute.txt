@@ -1,0 +1,10 @@
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Form1.resources
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\BaiTapTrenLop_LTGD\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb

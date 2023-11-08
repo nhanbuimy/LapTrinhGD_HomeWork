@@ -1,0 +1,12 @@
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\bin\Debug\BaiTapLamLai.exe.config
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\bin\Debug\BaiTapLamLai.exe
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\bin\Debug\BaiTapLamLai.pdb
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\obj\Debug\BaiTapLamLai.Form1.resources
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\obj\Debug\BaiTapLamLai.Properties.Resources.resources
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\obj\Debug\BaiTapLamLai.csproj.GenerateResource.cache
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\obj\Debug\BaiTapLamLai.csproj.CoreCompileInputs.cache
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\obj\Debug\BaiTapLamLai.exe
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\obj\Debug\BaiTapLamLai.pdb
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\obj\Debug\BaiTapLamLai.CacPhepTinhDonGian.resources
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\obj\Debug\BaiTapLamLai.RandomNumber.resources
+D:\BaiTapTrenLop_LTGD\BaiTapLamLai\BaiTapLamLai\obj\Debug\BaiTapLamLai.Giupbehoctoan.resources

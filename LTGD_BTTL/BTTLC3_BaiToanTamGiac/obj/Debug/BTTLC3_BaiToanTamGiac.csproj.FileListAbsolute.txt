@@ -1,0 +1,10 @@
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\bin\Debug\BTTLC3_BaiToanTamGiac.exe.config
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\bin\Debug\BTTLC3_BaiToanTamGiac.exe
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\bin\Debug\BTTLC3_BaiToanTamGiac.pdb
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\obj\Debug\BTTLC3_BaiToanTamGiac.Form1.resources
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\obj\Debug\BTTLC3_BaiToanTamGiac.Properties.Resources.resources
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\obj\Debug\BTTLC3_BaiToanTamGiac.csproj.GenerateResource.cache
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\obj\Debug\BTTLC3_BaiToanTamGiac.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\obj\Debug\BTTLC3_BaiToanTamGiac.exe
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\obj\Debug\BTTLC3_BaiToanTamGiac.pdb
+D:\TH_LTGD\BTTLC3_BaiToanTamGiac\BTTLC3_BaiToanTamGiac\obj\Debug\BTTLC3_BaiToanTamGiac.csproj.AssemblyReference.cache

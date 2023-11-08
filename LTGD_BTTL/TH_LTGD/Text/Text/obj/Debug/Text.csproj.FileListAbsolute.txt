@@ -1,0 +1,11 @@
+D:\TH_LTGD\Text\Text\bin\Debug\Text.exe.config
+D:\TH_LTGD\Text\Text\bin\Debug\Text.exe
+D:\TH_LTGD\Text\Text\bin\Debug\Text.pdb
+D:\TH_LTGD\Text\Text\obj\Debug\Text.Form1.resources
+D:\TH_LTGD\Text\Text\obj\Debug\Text.Properties.Resources.resources
+D:\TH_LTGD\Text\Text\obj\Debug\Text.csproj.GenerateResource.cache
+D:\TH_LTGD\Text\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+D:\TH_LTGD\Text\Text\obj\Debug\Text.exe
+D:\TH_LTGD\Text\Text\obj\Debug\Text.pdb
+D:\TH_LTGD\Text\Text\obj\Debug\Text.Form2.resources
+D:\TH_LTGD\Text\Text\obj\Debug\Text.csproj.AssemblyReference.cache
